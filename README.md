@@ -1,5 +1,5 @@
 # NHentai API DISCORD | The God's Language.
-Reminders this was poorly coded and was done in free time. It took me 2 hrs to create a fully working bot that is integrated with the NHentai-API-DISCORD. The code can be distributed or you can change a lot of things in there as long as you give credits. Neither big or small I appreciated it.
+Reminder! this was poorly coded and was coded in my free time. It took me 1+ hrs to create a fully working bot that is integrated with the NHentai-API-DISCORD. The code can be distributed or you can change a lot of things in there as long as you give credits. Neither big or small I appreciated it.
 ## Features
 
 * **Easy Code Checker!**
